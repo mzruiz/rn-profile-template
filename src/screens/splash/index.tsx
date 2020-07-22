@@ -1,7 +1,7 @@
 import React from 'react';
 
-import {SafeAreaView, StyleSheet, Text, View, Image} from 'react-native';
-import {DEVICE_WIDTH} from "../../styles";
+import {SafeAreaView, StyleSheet, Image} from 'react-native';
+import {DEVICE_WIDTH} from '../../styles';
 
 type SplashProps = {};
 
